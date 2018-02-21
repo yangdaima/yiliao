@@ -1,0 +1,168 @@
+*{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+img{
+	width: 7.5rem;
+	height: 13.34rem;
+}
+.fanhui{
+	width: 0.8rem;
+	float: left;
+	position: relative;
+	margin-top: -13.2rem;
+	z-index: 2;
+}
+.fanhui img{
+	width: 0.21rem;
+	height: 0.36rem;
+	margin-bottom: 0.44rem;
+	margin-left: 0.24rem;
+	position: absolute;
+}
+.biaoti{
+	font-size: 0.3rem;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 0.03rem;
+	margin-left: 3.3rem;
+	margin-top: -13.2rem;
+}
+.dengl{
+	width: 6.14rem;
+	height: 6.4rem;
+	position: relative;
+}
+.dengl img{
+	width: 6.14rem;
+	height: 7.7rem;
+	margin-left: 0.68rem;
+	margin-top: 1.58rem;
+}
+.dengl .zhanghao{
+	font-size: 0.24rem;
+	font-weight: 700;
+	font-family: Ping Fang SC;
+	color: #5b6771;
+	margin-left: 1.31rem;
+	margin-top: -6.5rem;
+	letter-spacing: 0.03rem;
+}
+.dengl .zhanghuming{
+	width: 4.95rem;
+	height: 0.72rem;
+	background: #fff;
+	border-radius: 0.1rem;
+	border: 0.03rem solid #9dfcfc;
+	margin-left: 1.3rem;
+	margin-top: 0.2rem;
+	position: absolute;
+	padding-left: 0.7rem;
+	box-sizing: border-box;
+}
+::-webkit-input-placeholder{
+	color: #c3c6c9;
+	letter-spacing: 0.03rem;
+	font-size: 0.24rem;
+	font-weight: 700;
+	font-family: Ping Fang SC;
+	letter-spacing: 0.03rem;
+	margin-top: 0.22rem;
+}
+.dengl .zhanghu {
+	width: 0.36rem;
+	height: 0.39rem;
+	margin-top: 0.36rem;
+	margin-left: 1.5rem;
+	position: absolute;
+}
+.dengl .mima{
+	font-size: 0.24rem;
+	font-weight: 700;
+	font-family: Ping Fang SC;
+	color: #5b6771;
+	margin-left: 1.31rem;
+	margin-top: 1.17rem;
+	letter-spacing: 0.03rem;
+	position: absolute;
+}
+.dengl .mimaming{
+	width: 4.95rem;
+	height: 0.72rem;
+	background: #fff;
+	border-radius: 0.1rem;
+	border: 0.03rem solid #9dfcfc;
+	margin-left: 1.3rem;
+	margin-top: 1.66rem;
+	position: absolute;
+	padding-left: 0.7rem;
+	box-sizing: border-box;
+}
+.dengl .mima1{
+	width: 0.36rem;
+	height: 0.39rem;
+	margin-top: 1.8rem;
+	margin-left: 1.5rem;
+	position: absolute;
+}
+.dengl .queren{
+	font-size: 0.24rem;
+	font-weight: 700;
+	font-family: Ping Fang SC;
+	color: #5b6771;
+	margin-left: 1.31rem;
+	margin-top: 2.6rem;
+	letter-spacing: 0.03rem;
+	position: absolute;
+}
+.dengl .querenming{
+	width: 4.95rem;
+	height: 0.72rem;
+	background: #fff;
+	border-radius: 0.1rem;
+	border: 0.03rem solid #9dfcfc;
+	margin-left: 1.3rem;
+	margin-top: 3.1rem;
+	position: absolute;
+	padding-left: 0.7rem;
+	box-sizing: border-box;
+}
+.dengl .querenma{
+	width: 0.36rem;
+	height: 0.39rem;
+	margin-top: 3.23rem;
+	margin-left: 1.5rem;
+	position: absolute;
+}
+.dengl .wangji{
+	font-size: 0.2rem;
+	color: #c6c8ca;
+	font-weight: 700;
+	font-family: Ping Fang SC;
+	margin-left: 4.72rem;
+	margin-top: 3.98rem;
+	letter-spacing: 0.02rem;
+	overflow: hidden;
+}
+.dengl .button{
+	width: 3.32rem;
+	height: 0.65rem;
+	border-radius: 0.32rem;
+	background: #43e5f8;
+	margin-left: 2.1rem;
+	position: absolute;
+	margin-top: 0.4rem;
+}
+.dengl .button .deng{
+	font-size: 0.24rem;
+	color: #fff;
+	font-weight: 700;
+	font-family: Ping Fang SC;
+	text-align: center;
+	line-height: 0.65rem;
+	letter-spacing: 0.03rem;
+}
